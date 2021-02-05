@@ -57,7 +57,7 @@ $message_id = $message->message_id;
 $json = [
 'Token'=>'1153754099:AAFKWFpecPbqPfM5BuJUUXyu2Mm_1NQdd6Q', // خلي توكنك بدل هاذ توكن .
 'admin'=>'853393439', // خلي ايديك بدل الايدي مالتي.
-'file'=>'Member.txt', //ضع اسم تخزينك هنا ان كان صيغ ملفك txt او json.
+'file'=>'member.txt', //ضع اسم تخزينك هنا ان كان صيغ ملفك txt او json.
 ];
 
 $ex = explode('.',$json['file']);
